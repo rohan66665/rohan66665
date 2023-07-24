@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohan66665
 - 👀 I’m interested in bike Riding ,Travelling
-- 🌱 I’m currently learning and always wanna be a good learner
 - 💞️ I’m looking to collaborate on LinkedIn & GitHub 
 - 📫 How to reach me:rohan.sharma723@gmail.com
 - 📝 I regularly write articles on https://medium.com/@rohan.sharma723
