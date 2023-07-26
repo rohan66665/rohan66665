@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Sharma</h1>
-<h3 align="center">A passionate Python Full Stack developer from India</h3>
+<h3 align="center">A Passionate Python Full Stack Developer From India</h3>
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" alt="coding" height="200px">
 
 - 📝 I regularly write articles on [https://medium.com/@rohan.sharma723](https://medium.com/@rohan.sharma723)
