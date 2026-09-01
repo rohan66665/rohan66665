@@ -1,10 +1,10 @@
 # Hi, I'm Rohan Sharma 👋
 
-### AI/ML Engineer | Generative AI | LLM & RAG | Python | FastAPI | LangChain | AWS
+### Data Scientist | Generative AI | LLM & RAG | Python | FastAPI
 
-I build practical AI/ML applications using Python, FastAPI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+I build practical AI and machine learning applications using Python, FastAPI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
-My work focuses on AI-powered backend applications, REST APIs, document retrieval, semantic search, vector databases, and end-to-end AI application development.
+My work focuses on machine learning, NLP, computer vision, document retrieval, semantic search, vector search, and AI-powered backend applications.
 
 ---
 
@@ -13,201 +13,175 @@ My work focuses on AI-powered backend applications, REST APIs, document retrieva
 ### Programming
 - Python
 
-### Backend Development
-- FastAPI
-- REST APIs
-
-### AI / Machine Learning
+### Data Science & Machine Learning
 - Machine Learning
+- NLP
 - Deep Learning
-- Natural Language Processing (NLP)
 - Computer Vision
+- NumPy
+- Pandas
+- Scikit-learn
 
 ### Generative AI
 - Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-
-### Vector Search & Databases
-- FAISS
-- ChromaDB
-- Vector Databases
-
-### Cloud & Deployment
-- AWS
-- AWS EC2
-- AWS Lambda
-- Docker
-
-### Frontend
-- React.js
-
-### Tools
-- Git
-- GitHub
-
----
-
-# 🚀 Featured Projects
-
-## 1. RAG Bot AI — Full-Stack RAG Application
-
-A full-stack Retrieval-Augmented Generation application for document-based question answering and context-aware AI responses.
-
-### Key Technologies
-
-- Python
-- FastAPI
 - LLMs
-- LangChain
 - RAG
+- Prompt Engineering
+- LangChain
+
+### RAG & Vector Search
 - FAISS
 - ChromaDB
-- React.js
-- Docker
-- AWS EC2
+- Hugging Face
+- Embeddings
+- Document Chunking
+- Vector Search
 
-### Key Features
-
-- Document-based question answering
-- Document processing and chunking
-- Embedding generation
-- Vector similarity search
-- Context-aware response generation
-- FastAPI backend
-- React.js frontend
-- Docker-based deployment
-- AWS EC2 deployment
-
-🔗 Repository:
-https://github.com/rohan66665/Rohan-bot-AI
-
----
-
-## 2. LangChain RAG Chatbot
-
-A Retrieval-Augmented Generation chatbot built using LangChain, Groq LLM, FAISS, HuggingFace embeddings, and FastAPI.
-
-### Key Technologies
-
-- Python
-- LangChain
-- Groq LLM
-- FastAPI
-- FAISS
-- HuggingFace Embeddings
-- HTML
-- JavaScript
-
-### Key Features
-
-- PDF and text document ingestion
-- Document embeddings
-- FAISS vector search
-- RAG-based question answering
-- LLM-powered responses
-- Conversation memory
-- FastAPI `/chat` endpoint
-- Frontend and backend integration
-- Secure API key management using environment variables
-
-🔗 Repository:
-https://github.com/rohan66665/Langchain-project
-
----
-
-## 3. Computer Vision — Cats vs Dogs Classification
-
-An end-to-end Computer Vision and Deep Learning project using Convolutional Neural Networks (CNNs) to classify images as cats or dogs.
-
-### Key Technologies
-
-- Python
+### Deep Learning
 - TensorFlow
 - Keras
 - CNN
-- NumPy
-- Pandas
-- Matplotlib
-- Streamlit
 
-### Key Features
+### Backend
+- FastAPI
+- REST APIs
 
-- Image preprocessing
-- Data augmentation
-- Feature extraction
-- CNN model training
-- Model evaluation
-- Image prediction
-- Streamlit application
+### LLM APIs
+- OpenAI
+- Groq
 
-🔗 Repository:
-https://github.com/rohan66665/03_Computer_Vision_Project
-
----
-
-# 💼 Experience
-
-## AI/ML & Python Backend Development
-
-I work with Python and FastAPI to develop backend APIs and AI-powered applications.
-
-### Experience includes:
-
-- Building RAG-based applications using LLMs and LangChain
-- Developing document retrieval and semantic search pipelines
-- Working with FAISS and ChromaDB for vector search
-- Integrating AI/ML components with backend services
-- Developing REST APIs using FastAPI
-- Working with Machine Learning, NLP, Computer Vision, and Deep Learning
-- Building AI-powered application workflows
-- Deploying AI applications using AWS EC2 and Lambda
-- Containerizing applications using Docker
-
----
-
-# 🧠 Areas of Interest
-
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- AI-powered Backend Systems
-- Vector Search
-- AI Application Development
-
----
-
-# ☁️ Cloud, Deployment & Tools
-
+### Cloud & Deployment
 - AWS EC2
 - AWS Lambda
 - Docker
+
+### Database
+- MySQL
+- SQL
+
+### Development Tools
 - Git
 - GitHub
-- REST APIs
-- FastAPI
+- Jupyter Notebook
+- VS Code
 
 ---
 
-# 🔗 Connect With Me
+## 🚀 Featured Projects
 
-### LinkedIn
-https://www.linkedin.com/in/rohan-sharma6
+### 1. RohanBot AI — RAG-based Chatbot
 
-### GitHub
-https://github.com/rohan66665
+A RAG-based AI application for document-based question answering and context-aware responses.
+
+**Technologies:** Python, FastAPI, LLMs, LangChain, RAG, FAISS, ChromaDB, Docker, AWS EC2
+
+**Key Features:**
+- Document ingestion and processing
+- Document chunking
+- Embedding generation
+- Vector similarity search
+- Context retrieval
+- LLM-based question answering
+- FastAPI backend
+- Docker-based deployment
+
+Repository: https://github.com/rohan66665/Rohan-bot-AI
 
 ---
 
-# 📫 Contact
+### 2. LangChain RAG Chatbot
 
-Email: rohansharma060989@gmail.com
+A RAG chatbot built using LangChain, Groq LLM, FAISS, Hugging Face embeddings, and FastAPI.
+
+**Technologies:** Python, LangChain, Groq, FAISS, Hugging Face, FastAPI
+
+**Key Features:**
+- PDF and text document ingestion
+- Document chunking
+- Embeddings
+- Vector search
+- RAG-based question answering
+- Conversation memory
+- FastAPI chat endpoint
+
+Repository: https://github.com/rohan66665/Langchain-project
 
 ---
 
-### Thanks for visiting my profile! 👋
+### 3. Computer Vision — Cats vs Dogs Classification
+
+An image classification project using Convolutional Neural Networks.
+
+**Technologies:** Python, TensorFlow, Keras, CNN, NumPy, Pandas, Matplotlib
+
+**Key Features:**
+- Image preprocessing
+- Data augmentation
+- CNN model training
+- Model evaluation
+- Image prediction
+- Streamlit interface
+
+Repository: https://github.com/rohan66665/03_Computer_Vision_Project
+
+---
+
+### 4. Health Risk Predictor
+
+A supervised machine learning project for health-risk prediction.
+
+**Technologies:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
+
+**Key Features:**
+- Data preprocessing
+- Feature engineering
+- Model training
+- Model evaluation
+- Prediction workflow
+
+Repository: https://github.com/rohan66665/Health-Risk-Predictor
+
+---
+
+## 💼 Experience
+
+### AI/ML & Python Backend Development
+
+Hands-on experience developing AI-powered applications and backend services using Python and FastAPI.
+
+Experience includes:
+
+- Machine Learning, NLP, Deep Learning and Computer Vision
+- Generative AI and LLM applications
+- RAG pipelines
+- Document retrieval and semantic search
+- LangChain-based workflows
+- FAISS and ChromaDB
+- Embeddings and vector search
+- FastAPI REST APIs
+- OpenAI and Groq APIs
+- AWS EC2 and Lambda
+- Docker-based deployment
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Science
+- Machine Learning
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- NLP
+- Computer Vision
+- AI Application Development
+- Vector Search
+- Python Backend Development
+
+---
+
+## 🔗 Connect
+
+LinkedIn: https://www.linkedin.com/in/rohan-sharma6
+
+GitHub: https://github.com/rohan66665
